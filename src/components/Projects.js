@@ -22,6 +22,7 @@ const Projects = () => {
       id: 3,
       title: "URL-Shortener",
       description: "Full-Stack URL Shortener built with Node.js, Express, MongoDB,featuring user authentication, link management, and click tracking.",
+      images:"https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/1885/posts/108979/image-upload/url_shortener.png",
       technologies: ["MERN Stack", "MongoDB", "Express.js", "React.js", "Node.js", "JWT", "MySQL"],
       category: "fullstack",
       github: "https://github.com/JaiGosain/URL-Shortener",
