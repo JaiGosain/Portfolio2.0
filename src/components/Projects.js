@@ -14,26 +14,17 @@ const Projects = () => {
       technologies: ["HTML", "CSS", "JavaScript", "OpenWeatherMap API", "Fetch API", "Async/Await"],
       category: "frontend",
       github: "https://github.com/JaiGosain/Weather-App",
-      live: "#",
+      live: "",
       features: ["Real-time weather data", "OpenWeatherMap API integration", "Responsive design", "Async JavaScript", "DOM manipulation"]
     },
-    {
-      id: 2,
-      title: "Video Content Management System",
-      description: "A full-stack web application developed during my internship at UptoSkills, featuring user authentication, video content management, and RESTful APIs for managing video content and user operations.",
-      technologies: ["Node.js", "Express.js", "MongoDB", "Mongoose", "HTML", "CSS", "JavaScript", "RESTful APIs"],
-      category: "fullstack",
-      github: "#",
-      live: "#",
-      features: ["Video content management", "User authentication", "RESTful APIs", "MongoDB integration", "Responsive UI"]
-    },
+   
     {
       id: 3,
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce application with user authentication, product management, shopping cart, and payment integration using modern web technologies.",
+      title: "URL-Shortener",
+      description: "Full-Stack URL Shortener built with Node.js, Express, MongoDB,featuring user authentication, link management, and click tracking.",
       technologies: ["MERN Stack", "MongoDB", "Express.js", "React.js", "Node.js", "JWT", "MySQL"],
       category: "fullstack",
-      github: "#",
+      github: "https://github.com/JaiGosain/URL-Shortener",
       live: "#",
       features: ["User authentication", "Product catalog", "Shopping cart", "Payment processing", "Admin dashboard"]
     },
@@ -43,7 +34,7 @@ const Projects = () => {
       description: "A modern, responsive portfolio website built with React and Tailwind CSS, showcasing my skills and projects with smooth animations and interactive components.",
       technologies: ["React.js", "Tailwind CSS", "Framer Motion", "Responsive Design", "JavaScript"],
       category: "frontend",
-      github: "https://github.com/JaiGosain",
+      github: "https://github.com/JaiGosain/Portfolio2.0",
       live: "#",
       features: ["Responsive design", "Smooth animations", "Interactive components", "Modern UI/UX", "Tailwind CSS"]
     }
